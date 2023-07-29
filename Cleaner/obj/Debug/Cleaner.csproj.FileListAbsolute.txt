@@ -1,0 +1,8 @@
+F:\Ashok Sir\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+F:\Ashok Sir\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+F:\Ashok Sir\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+F:\Ashok Sir\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+F:\Ashok Sir\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+F:\Ashok Sir\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
+F:\Ashok Sir\Cleaner\Cleaner\obj\Debug\Cleaner.ProjectInstaller.resources
+F:\Ashok Sir\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.GenerateResource.cache

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cleaner", "Cleaner\Cleaner.csproj", "{86ED3739-D964-4CDE-BAC8-0371D8A361AF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Data_Cleaner", "Data_Cleaner\Data_Cleaner.vdproj", "{525CD966-8BE5-4733-B340-4D0A9BEAA83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86ED3739-D964-4CDE-BAC8-0371D8A361AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86ED3739-D964-4CDE-BAC8-0371D8A361AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86ED3739-D964-4CDE-BAC8-0371D8A361AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86ED3739-D964-4CDE-BAC8-0371D8A361AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525CD966-8BE5-4733-B340-4D0A9BEAA83B}.Debug|Any CPU.ActiveCfg = Debug
+		{525CD966-8BE5-4733-B340-4D0A9BEAA83B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B242D41-437F-4A48-B716-42321B2FC005}
+	EndGlobalSection
+EndGlobal
